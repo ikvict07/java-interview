@@ -1,5 +1,8 @@
-#H1 Simple app that can:
-create user
-read info about user
-change online/offline status of the user
-imitate db api response time (5-10s)
+# Simple App
+
+This application has functionalities that include:
+
+- Create a user  
+- Read info about a user  
+- Change online/offline status of the user  
+- Imitate DB API response time (5-10s)
